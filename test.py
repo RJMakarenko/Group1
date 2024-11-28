@@ -1,1 +1,1 @@
-print('Hello Yandex')
+print('hello yandex')
