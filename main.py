@@ -1,6 +1,6 @@
+# Макаренко
 def function():
     print('Привет МИР!!!')
-    print('Конец')
 
 
 def main():
